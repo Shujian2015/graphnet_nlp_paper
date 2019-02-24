@@ -16,4 +16,7 @@ ___
 ## Review
 
 * Xu, Keyulu, et al. "[How Powerful are Graph Neural Networks?.](https://arxiv.org/pdf/1810.00826.pdf)" arXiv preprint arXiv:1810.00826 (2018). [[Slides](http://i.stanford.edu/~jure/pub/talks2/graphsage_gin-ita-feb19.pdf)]
+* Zhou, Jie, et al. "[Graph Neural Networks: A Review of Methods and Applications.](https://arxiv.org/abs/1812.08434)" arXiv preprint arXiv:1812.08434 (2018).
+* Wu, Zonghan, et al. "[A comprehensive survey on graph neural networks.](https://arxiv.org/abs/1901.00596)" arXiv preprint arXiv:1901.00596 (2019).
+* Battaglia, Peter W., et al. "[Relational inductive biases, deep learning, and graph networks.](https://arxiv.org/pdf/1806.01261.pdf)" arXiv preprint arXiv:1806.01261 (2018).
 * https://github.com/thunlp/GNNPapers
