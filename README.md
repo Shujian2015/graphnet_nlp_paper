@@ -15,5 +15,5 @@ ___
 ___
 ## Review
 
+* Xu, Keyulu, et al. "[How Powerful are Graph Neural Networks?.](https://arxiv.org/pdf/1810.00826.pdf)" arXiv preprint arXiv:1810.00826 (2018). [[Slides](http://i.stanford.edu/~jure/pub/talks2/graphsage_gin-ita-feb19.pdf)]
 * https://github.com/thunlp/GNNPapers
-* [How Powerful are Graph Neural Networks](http://i.stanford.edu/~jure/pub/talks2/graphsage_gin-ita-feb19.pdf)
