@@ -20,3 +20,11 @@ ___
 * Wu, Zonghan, et al. "[A comprehensive survey on graph neural networks.](https://arxiv.org/abs/1901.00596)" arXiv preprint arXiv:1901.00596 (2019).
 * Battaglia, Peter W., et al. "[Relational inductive biases, deep learning, and graph networks.](https://arxiv.org/pdf/1806.01261.pdf)" arXiv preprint arXiv:1806.01261 (2018).
 * https://github.com/thunlp/GNNPapers
+
+___
+## Implementation
+
+* A Higher-Order Graph Convolutional Layer (PyTorch): https://github.com/benedekrozemberczki/NGCN
+* Graph Convolutional Networks (TensorFlow): https://github.com/tkipf/gcn
+* Graph Convolutional Networks (Keras): https://github.com/tkipf/keras-gcn
+* Graph convolutional layers (Keras): https://github.com/CyberZHG/keras-gcn
