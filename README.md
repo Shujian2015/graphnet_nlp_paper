@@ -9,6 +9,7 @@ ___
 * Yao, Liang, Chengsheng Mao, and Yuan Luo. "[Graph convolutional networks for text classification.](https://arxiv.org/abs/1809.05679)" arXiv preprint arXiv:1809.05679 (2018).
 * Liu, Bang, et al. "[Matching long text documents via graph convolutional networks.](https://arxiv.org/abs/1802.07459)" arXiv preprint arXiv:1802.07459 (2018).
 * Marcheggiani, Diego, and Ivan Titov. "[Encoding sentences with graph convolutional networks for semantic role labeling.](https://arxiv.org/abs/1703.04826)" arXiv preprint arXiv:1703.04826 (2017).
+* [Search results on Arxiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=cs.CL&terms-0-field=all&terms-1-operator=AND&terms-1-term=graph+convolutional&terms-1-field=abstract&classification-computer_science=y&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
 ___
 ## Model
 
