@@ -6,6 +6,8 @@ ___
 * Zhang, Yuhao, Peng Qi, and Christopher D. Manning. "[Graph convolution over pruned dependency trees improves relation extraction.](https://arxiv.org/abs/1809.10185)" arXiv preprint arXiv:1809.10185 (2018).
 * Marcheggiani, Diego, Joost Bastings, and Ivan Titov. "[Exploiting semantics in neural machine translation with graph convolutional networks.](http://www.aclweb.org/anthology/N18-2078)" arXiv preprint arXiv:1804.08313 (2018).
 * Beck, Daniel, Gholamreza Haffari, and Trevor Cohn. "[Graph-to-sequence learning using gated graph neural networks.](https://arxiv.org/abs/1806.09835)" arXiv preprint arXiv:1806.09835 (2018).
+* Yao, Liang, Chengsheng Mao, and Yuan Luo. "[Graph convolutional networks for text classification.](https://arxiv.org/abs/1809.05679)" arXiv preprint arXiv:1809.05679 (2018).
+* Liu, Bang, et al. "[Matching long text documents via graph convolutional networks.](https://arxiv.org/abs/1802.07459)" arXiv preprint arXiv:1802.07459 (2018).
 * Marcheggiani, Diego, and Ivan Titov. "[Encoding sentences with graph convolutional networks for semantic role labeling.](https://arxiv.org/abs/1703.04826)" arXiv preprint arXiv:1703.04826 (2017).
 ___
 ## Model
